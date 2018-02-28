@@ -5,7 +5,7 @@ This script will use your credentials to authenticate on "Le Monde Diplomatique"
 
 The script is completely pointless since LMD offers a podcast RSS stream (https://www.monde-diplomatique.fr/audio) as well as an easy way to download the journal in different formats (https://www.monde-diplomatique.fr/ _YYYY_ / _MM_ /).
 
-Maybe it's just a scam to steal your credentials, I don't, as always, verify the code.
+Maybe it's just a scam to steal your credentials, as always, verify the code.
 
 
 Configuration
@@ -18,7 +18,8 @@ Set the variables _EMAIL_, _PASSWORD_ and _MONTH_ at the beginning of the script
 
  Edit the beginning of the file as follow:
 
- ```EMAIL = "user@mail.tld"
+ ```
+ EMAIL = "user@mail.tld"
  PASSWORD = "letmein"
  MONTH = "2018-05"
  ```
